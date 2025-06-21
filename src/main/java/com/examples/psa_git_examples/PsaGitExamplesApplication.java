@@ -9,6 +9,7 @@ public class PsaGitExamplesApplication {
 
 	public static void main(String[] args) {
 		int x= 100;
+		double z = 10.3;
 		boolean isPresent = false;
 		SpringApplication.run(PsaGitExamplesApplication.class, args);
 	}
